@@ -1,0 +1,31 @@
+.color{
+    background-color : #f1f3f5;
+    text-align: center;
+    padding : 15px 0;
+}
+
+.color-box {
+    width : 30px;
+    height : 30px;
+    margin-right : 15px;
+    display: inline-block;
+    cursor : pointer;
+}
+
+.color-box:last-child{
+    margin-right : 0;
+}
+
+#c343a40 {
+    background-color:#343a40;
+}
+#cf03e3e {
+    background-color:#f03e3e;
+}
+#c12b886 {
+    background-color:#12b886;
+}
+#c228ae6 {
+    background-color:#228ae6;
+}
+
